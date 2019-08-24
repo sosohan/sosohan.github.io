@@ -18,6 +18,6 @@ git 과 jira 연동해서 티켓으로 브랜치 관리하려고 시도 해보�
 구글링해서 연결하는 방법을 찾기는 찾았는데. 왜 안되는지는 아직도 모르겠다. 다른 셋팅이 있는 건가?
 내가 사용한 방법은 atlassian 홈페이지에서 api 인증 토큰 발급 받아서 했다. 또 name 에는 name을 안 쓰고 이메일 썼다.
 흑.. 왜 그런건지는 jira에 좀 더 익숙해지면서 알아가는 걸로.. 
-![jira-api-token](/assets/img/20190814/jira-api-token.jpg)
-![jira-intellij-test](/assets/img/20190814/jira-intellij-test.jpg)
+![jira-api-token](https://sosohan.github.io/assets/img/20190814/jira-api-token.jpg)
+![jira-intellij-test](https://sosohan.github.io/assets/img/20190814/jira-intellij-test.jpg)
 
