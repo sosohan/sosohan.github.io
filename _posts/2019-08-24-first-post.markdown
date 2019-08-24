@@ -21,3 +21,19 @@ git 과 jira 연동해서 티켓으로 브랜치 관리하려고 시도 해보�
 ![jira-api-token](https://sosohan.github.io/assets/img/20190814/jira-api-token.jpg)
 ![jira-intellij-test](https://sosohan.github.io/assets/img/20190814/jira-intellij-test.jpg)
 
+로그인은 결국 해서 연결은 했지만 티켓이랑 연동해서 브랜치 관리가 안됨 주의..;)
+
+## 폰트 변경
+첫 포스트를 릴리즈 해보았는데 너무 안 예쁘다... ㅋㅋㅋ
+![first-post](https://sosohan.github.io/assets/img/20190814/first-post.png)
+폰트 변경은 대체 어떻게 하는거지..??
+html 태그로 존재하는 기울기, 굵게 등등의 간단한 변경만 가능하다. 
+폰트 주입해서 쓰려면??.
+
+
+##소감
+이렇게 일일이 태그 비슷한 코드 써가면서 작성하는 줄 몰랐다..
+블로그 사용할 때는 항상 텍스트 에디터가 있었기 때문에 텍스트를 읽기 좋게 꾸미는 일이
+간단한 일이라는 생각에 익숙해져 있었다. 
+어렵군..
+
