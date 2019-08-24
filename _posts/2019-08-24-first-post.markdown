@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 첫 포스팅! 
+title: first-post
 date: 2019-08-24 11:51:00
 thumbnail: scribble.png
 
