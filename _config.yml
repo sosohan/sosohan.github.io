@@ -6,7 +6,7 @@ permalink: /themes/:title/
 
 plugins: [jekyll-paginate]
 
-highlighter: pygments
+highlighter: rouge
 paginate: 20
 
 markdown: rdiscount
